@@ -1,3 +1,3 @@
-module github.com/steveyen/gtreap
+module github.com/blevesearch/gtreap
 
 go 1.13
